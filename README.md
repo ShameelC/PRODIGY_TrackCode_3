@@ -21,12 +21,6 @@ A Python-based application to evaluate the strength of passwords using a set of 
 
 ---
 
-## Demo
-### GUI Interface:
-![Password Strength Checker GUI](strong.png)
-
----
-
 ## Installation
 
 1. **Clone the Repository**:
